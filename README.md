@@ -18,4 +18,5 @@ react:
 - posisi di folder chat-room-fastapi (root repo)
 - update NPM jika belum -> npm install -g npm@10.5.0
 - npx create-react-app client
+- npm install react-chat-engine-pret
 - npm run start
