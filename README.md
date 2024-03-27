@@ -14,7 +14,7 @@ python:
 - pip install fastapi "uvicorn[standard]" requests
 - pip freeze > requirements.txt
 - echo > main.py
-- Liat
+- Copy code from my repo /server/main.py
 
 react:
 - posisi di folder chat-room-fastapi (root repo)
