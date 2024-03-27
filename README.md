@@ -1,3 +1,5 @@
+Manual instalasi ygy
+
 Extension:
 - powershell
 - python
@@ -5,14 +7,14 @@ Extension:
 
 command:
 python:
-- mkdir server
-- posisi di folder server
+- /server ->
 - python -m venv venv
 - powershell -> Set-ExecutionPolicy RemoteSigned
 - venv\Scripts\activate
 - pip install fastapi "uvicorn[standard]" requests
 - pip freeze > requirements.txt
 - echo > main.py
+- Liat
 
 react:
 - posisi di folder chat-room-fastapi (root repo)
